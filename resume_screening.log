@@ -50,3 +50,218 @@
 2025-03-05 11:41:40,215 - INFO: 127.0.0.1 - - [05/Mar/2025 11:41:40] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
 2025-03-05 11:41:40,226 - INFO: 127.0.0.1 - - [05/Mar/2025 11:41:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=GDrgas7uqunDnb0LGhwr HTTP/1.1[0m" 304 -
 2025-03-05 11:41:40,247 - INFO: 127.0.0.1 - - [05/Mar/2025 11:41:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-05 11:48:03,120 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 11:48:03,326 - INFO:  * Restarting with stat
+2025-03-05 11:48:04,633 - WARNING:  * Debugger is active!
+2025-03-05 11:48:04,640 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 11:48:21,088 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 11:48:21,222 - INFO:  * Restarting with stat
+2025-03-05 11:48:22,209 - WARNING:  * Debugger is active!
+2025-03-05 11:48:22,217 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 11:52:34,993 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 11:52:35,155 - INFO:  * Restarting with stat
+2025-03-05 11:52:36,254 - WARNING:  * Debugger is active!
+2025-03-05 11:52:36,260 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 11:54:10,845 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 11:54:11,025 - INFO:  * Restarting with stat
+2025-03-05 11:54:12,298 - WARNING:  * Debugger is active!
+2025-03-05 11:54:12,306 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 11:55:02,620 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 11:55:02,815 - INFO:  * Restarting with stat
+2025-03-05 11:55:03,991 - WARNING:  * Debugger is active!
+2025-03-05 11:55:04,000 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 11:55:28,538 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 11:55:28,679 - INFO:  * Restarting with stat
+2025-03-05 11:55:29,696 - WARNING:  * Debugger is active!
+2025-03-05 11:55:29,704 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 11:55:50,891 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 11:55:50,892 - INFO: [33mPress CTRL+C to quit[0m
+2025-03-05 11:55:50,892 - INFO:  * Restarting with stat
+2025-03-05 11:55:51,565 - WARNING:  * Debugger is active!
+2025-03-05 11:55:51,572 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 11:55:55,091 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "GET / HTTP/1.1" 200 -
+2025-03-05 11:55:55,606 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /lib/animate/animate.min.css HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,607 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,608 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /lib/lightbox/css/lightbox.min.css HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,608 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,608 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /css/style.css HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,609 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /img/hero.png HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,611 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /lib/wow/wow.min.js HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,618 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /lib/easing/easing.min.js HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,618 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /lib/waypoints/waypoints.min.js HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,619 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /lib/counterup/counterup.min.js HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,620 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,622 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /lib/isotope/isotope.pkgd.min.js HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,624 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /lib/lightbox/js/lightbox.min.js HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,625 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /js/main.js HTTP/1.1[0m" 404 -
+2025-03-05 11:55:55,948 - INFO: 127.0.0.1 - - [05/Mar/2025 11:55:55] "[33mGET /img/favicon.ico HTTP/1.1[0m" 404 -
+2025-03-05 12:09:36,388 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 12:09:36,390 - INFO: [33mPress CTRL+C to quit[0m
+2025-03-05 12:09:36,390 - INFO:  * Restarting with stat
+2025-03-05 12:09:37,075 - WARNING:  * Debugger is active!
+2025-03-05 12:09:37,083 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:09:39,432 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET / HTTP/1.1" 200 -
+2025-03-05 12:09:39,482 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/img/hero.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,488 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/lightbox/css/lightbox.min.css HTTP/1.1" 200 -
+2025-03-05 12:09:39,537 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-03-05 12:09:39,537 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/wow/wow.min.js HTTP/1.1" 200 -
+2025-03-05 12:09:39,537 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-03-05 12:09:39,537 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/animate/animate.min.css HTTP/1.1" 200 -
+2025-03-05 12:09:39,537 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/easing/easing.min.js HTTP/1.1" 200 -
+2025-03-05 12:09:39,538 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 200 -
+2025-03-05 12:09:39,542 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/waypoints/waypoints.min.js HTTP/1.1" 200 -
+2025-03-05 12:09:39,543 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/counterup/counterup.min.js HTTP/1.1" 200 -
+2025-03-05 12:09:39,543 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 200 -
+2025-03-05 12:09:39,544 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/lightbox/js/lightbox.min.js HTTP/1.1" 200 -
+2025-03-05 12:09:39,544 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/isotope/isotope.pkgd.min.js HTTP/1.1" 200 -
+2025-03-05 12:09:39,546 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-03-05 12:09:39,557 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/img/blob-top-right.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,557 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/img/blob-top-left.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,557 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/img/bg-bottom.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,557 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/img/blob-bottom-left.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,557 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/img/blob-bottom-right.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,557 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/img/blob-center.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,561 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/img/bg-top.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,561 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/img/map.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,611 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/lightbox/images/next.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,611 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/lightbox/images/prev.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,612 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/lightbox/images/loading.gif HTTP/1.1" 200 -
+2025-03-05 12:09:39,612 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "GET /static/lib/lightbox/images/close.png HTTP/1.1" 200 -
+2025-03-05 12:09:39,735 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:39] "[33mGET /static/img/favicon.ico HTTP/1.1[0m" 404 -
+2025-03-05 12:09:42,531 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:42] "GET /upload HTTP/1.1" 200 -
+2025-03-05 12:09:42,543 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:42] "[33mGET /css/style.css HTTP/1.1[0m" 404 -
+2025-03-05 12:09:42,544 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:42] "[33mGET /css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-03-05 12:09:49,505 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:49] "GET /upload HTTP/1.1" 200 -
+2025-03-05 12:09:49,516 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:49] "[33mGET /css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-03-05 12:09:49,517 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:49] "[33mGET /css/style.css HTTP/1.1[0m" 404 -
+2025-03-05 12:09:51,538 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:51] "GET /upload HTTP/1.1" 200 -
+2025-03-05 12:09:51,549 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:51] "[33mGET /css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2025-03-05 12:09:51,550 - INFO: 127.0.0.1 - - [05/Mar/2025 12:09:51] "[33mGET /css/style.css HTTP/1.1[0m" 404 -
+2025-03-05 12:15:47,257 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 12:15:47,446 - INFO:  * Restarting with stat
+2025-03-05 12:15:48,735 - WARNING:  * Debugger is active!
+2025-03-05 12:15:48,743 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:16:26,794 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 12:16:27,007 - INFO:  * Restarting with stat
+2025-03-05 12:16:28,243 - WARNING:  * Debugger is active!
+2025-03-05 12:16:28,254 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:20:40,031 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 12:20:40,220 - INFO:  * Restarting with stat
+2025-03-05 12:20:41,481 - WARNING:  * Debugger is active!
+2025-03-05 12:20:41,489 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:21:14,408 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 12:21:14,539 - INFO:  * Restarting with stat
+2025-03-05 12:21:15,618 - WARNING:  * Debugger is active!
+2025-03-05 12:21:15,626 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:21:35,973 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 12:21:35,973 - INFO: [33mPress CTRL+C to quit[0m
+2025-03-05 12:21:35,974 - INFO:  * Restarting with stat
+2025-03-05 12:21:36,652 - WARNING:  * Debugger is active!
+2025-03-05 12:21:36,659 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:21:39,327 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "GET / HTTP/1.1" 200 -
+2025-03-05 12:21:39,540 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,540 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,540 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/lightbox/css/lightbox.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,541 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,541 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/animate/animate.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,541 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/wow/wow.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,543 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,544 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,544 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/counterup/counterup.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,545 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,546 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/isotope/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,546 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/lightbox/js/lightbox.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,547 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,634 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/lightbox/images/close.png HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,634 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/lightbox/images/prev.png HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,634 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/lightbox/images/next.png HTTP/1.1[0m" 304 -
+2025-03-05 12:21:39,635 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:39] "[36mGET /static/lib/lightbox/images/loading.gif HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,513 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "GET / HTTP/1.1" 200 -
+2025-03-05 12:21:49,577 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/animate/animate.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,577 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/lightbox/css/lightbox.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,577 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,577 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,578 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,579 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/wow/wow.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,579 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,580 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,581 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,583 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/counterup/counterup.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,586 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/lightbox/js/lightbox.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,586 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,587 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/isotope/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,603 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/lightbox/images/next.png HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,603 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/lightbox/images/prev.png HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,604 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/lightbox/images/loading.gif HTTP/1.1[0m" 304 -
+2025-03-05 12:21:49,604 - INFO: 127.0.0.1 - - [05/Mar/2025 12:21:49] "[36mGET /static/lib/lightbox/images/close.png HTTP/1.1[0m" 304 -
+2025-03-05 12:27:30,020 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET / HTTP/1.1" 200 -
+2025-03-05 12:27:30,064 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/animate/animate.min.css HTTP/1.1" 200 -
+2025-03-05 12:27:30,067 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/lightbox/css/lightbox.min.css HTTP/1.1" 200 -
+2025-03-05 12:27:30,068 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-03-05 12:27:30,068 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2025-03-05 12:27:30,068 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 200 -
+2025-03-05 12:27:30,069 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/wow/wow.min.js HTTP/1.1" 200 -
+2025-03-05 12:27:30,073 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/waypoints/waypoints.min.js HTTP/1.1" 200 -
+2025-03-05 12:27:30,073 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/easing/easing.min.js HTTP/1.1" 200 -
+2025-03-05 12:27:30,073 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/counterup/counterup.min.js HTTP/1.1" 200 -
+2025-03-05 12:27:30,076 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 200 -
+2025-03-05 12:27:30,076 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/isotope/isotope.pkgd.min.js HTTP/1.1" 200 -
+2025-03-05 12:27:30,077 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/lightbox/js/lightbox.min.js HTTP/1.1" 200 -
+2025-03-05 12:27:30,078 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-03-05 12:27:30,116 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/lightbox/images/close.png HTTP/1.1" 200 -
+2025-03-05 12:27:30,116 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/lightbox/images/loading.gif HTTP/1.1" 200 -
+2025-03-05 12:27:30,117 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/lightbox/images/next.png HTTP/1.1" 200 -
+2025-03-05 12:27:30,117 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "GET /static/lib/lightbox/images/prev.png HTTP/1.1" 200 -
+2025-03-05 12:27:30,247 - INFO: 127.0.0.1 - - [05/Mar/2025 12:27:30] "[33mGET /static/img/favicon.ico HTTP/1.1[0m" 404 -
+2025-03-05 12:30:24,246 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 12:30:24,425 - INFO:  * Restarting with stat
+2025-03-05 12:30:25,694 - WARNING:  * Debugger is active!
+2025-03-05 12:30:25,704 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:30:25,722 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 12:30:25,841 - INFO:  * Restarting with stat
+2025-03-05 12:30:26,566 - WARNING:  * Debugger is active!
+2025-03-05 12:30:26,572 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:31:09,718 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 12:31:09,862 - INFO:  * Restarting with stat
+2025-03-05 12:31:10,958 - WARNING:  * Debugger is active!
+2025-03-05 12:31:10,966 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:31:29,830 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 12:31:29,830 - INFO: [33mPress CTRL+C to quit[0m
+2025-03-05 12:31:29,831 - INFO:  * Restarting with stat
+2025-03-05 12:31:30,520 - WARNING:  * Debugger is active!
+2025-03-05 12:31:30,528 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:31:32,848 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-05 12:31:32,891 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:32] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-05 12:31:32,892 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:32] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-05 12:31:32,898 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:32] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=TllZZ56i6hFJUy5HhcgU HTTP/1.1" 200 -
+2025-03-05 12:31:32,952 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:32] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-05 12:31:49,007 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 12:31:49,163 - INFO:  * Restarting with stat
+2025-03-05 12:31:50,195 - WARNING:  * Debugger is active!
+2025-03-05 12:31:50,200 - INFO:  * Debugger PIN: 100-029-957
+2025-03-05 12:31:55,213 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "GET / HTTP/1.1" 200 -
+2025-03-05 12:31:55,242 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/animate/animate.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,243 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,244 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,247 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/wow/wow.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,249 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,249 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,249 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/lightbox/css/lightbox.min.css HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,251 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/counterup/counterup.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,252 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,252 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,254 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/isotope/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,254 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/lightbox/js/lightbox.min.js HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,255 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,319 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/lightbox/images/loading.gif HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,319 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/lightbox/images/prev.png HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,319 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/lightbox/images/next.png HTTP/1.1[0m" 304 -
+2025-03-05 12:31:55,319 - INFO: 127.0.0.1 - - [05/Mar/2025 12:31:55] "[36mGET /static/lib/lightbox/images/close.png HTTP/1.1[0m" 304 -
+2025-03-05 14:21:07,593 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-05 14:21:07,789 - INFO:  * Restarting with stat
+2025-03-05 14:21:09,069 - WARNING:  * Debugger is active!
+2025-03-05 14:21:09,084 - INFO:  * Debugger PIN: 100-029-957
