@@ -4297,3 +4297,15 @@
 2025-03-07 11:23:52,866 - INFO: 127.0.0.1 - - [07/Mar/2025 11:23:52] "[36mGET /static/lib/lightbox/images/next.png HTTP/1.1[0m" 304 -
 2025-03-07 11:23:52,867 - INFO: 127.0.0.1 - - [07/Mar/2025 11:23:52] "[36mGET /static/lib/lightbox/images/loading.gif HTTP/1.1[0m" 304 -
 2025-03-07 11:23:52,867 - INFO: 127.0.0.1 - - [07/Mar/2025 11:23:52] "[36mGET /static/lib/lightbox/images/close.png HTTP/1.1[0m" 304 -
+2025-03-07 11:59:46,452 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 11:59:46,452 - INFO: [33mPress CTRL+C to quit[0m
+2025-03-07 11:59:46,453 - INFO:  * Restarting with stat
+2025-03-07 11:59:48,864 - WARNING:  * Debugger is active!
+2025-03-07 11:59:48,874 - INFO:  * Debugger PIN: 100-029-957
+2025-03-07 12:03:18,611 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-07 12:03:18,851 - INFO:  * Restarting with stat
+2025-03-07 12:03:21,097 - WARNING:  * Debugger is active!
+2025-03-07 12:03:21,111 - INFO:  * Debugger PIN: 100-029-957
+2025-03-07 12:03:26,242 - INFO:  * Detected change in '/Users/samikshadhere/MSc ADSA/1st Semester/Resume_screeing/app.py', reloading
+2025-03-07 12:03:26,434 - INFO:  * Restarting with stat
